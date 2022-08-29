@@ -1,4 +1,2 @@
-// console log every 5 seconds
-setInterval(() => {
-    console.log('===> FROM THE PRINT MODULE:', 'Hello World');
-}, 5000);
+console.log('This is the background page.');
+console.log('Put the background scripts here.');
